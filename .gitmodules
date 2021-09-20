@@ -1,0 +1,3 @@
+[submodule "ping1d_ros"]
+	path = ping1d_ros
+	url = https://github.com/robbal46/ping1d_ros
